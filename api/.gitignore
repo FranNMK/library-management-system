@@ -5,3 +5,10 @@ dist/
 !.env.example
 *.log
 npm-debug.log*
+
+# AI tool skill caches — not part of the project
+.agents/
+.claude/
+.cursor/
+.devin/
+AGENTS.md
